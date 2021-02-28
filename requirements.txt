@@ -1,1 +1,5 @@
--f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.7/index.html
+pyyaml == 5.1
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.6/index.html
+detectron2 == 0.3
+opencv-python
+numpy
