@@ -2,7 +2,7 @@
 
 Semantic segmentation for objects in room.
 
-![alt text](https://drive.google.com/uc?id=1gYdscBF4z9mF3uPkkCTROj8eejJ4_s7n)
+![alt text](https://github.com/violonistahiles/room_objects_segmentation/blob/main/docs/images_for_README/Example.png)
 
 Classes:
  - Floor
@@ -20,4 +20,4 @@ Classes:
 
 Model architecture for 11 class segmentation:
 
-![alt text](https://drive.google.com/uc?id=16tZtg_ck9olcCOeZPMaWSuxPkrNahkSo)
+![alt text](https://github.com/violonistahiles/room_objects_segmentation/blob/main/docs/images_for_README/UxNet.jpg)
