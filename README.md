@@ -18,6 +18,6 @@ Classes:
  - Balk
  - People (based on [Detectron2](https://github.com/facebookresearch/detectron2))
 
-Model architecture for 11 class segmentation:
+Neural network architecture for 11 classes segmentation:
 
 ![alt text](https://github.com/violonistahiles/room_objects_segmentation/blob/main/docs/images_for_README/UxNet.jpg)
